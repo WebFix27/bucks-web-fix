@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 620" role="img" aria-labelledby="title desc">
+  <title id="title">Alcove shelving</title>
+  <desc id="desc">Warm alcove shelving illustration with neatly arranged storage.</desc>
+  <rect width="900" height="620" fill="#fbf4e8"/>
+  <rect x="140" y="120" width="620" height="380" rx="22" fill="#fffaf3" stroke="#eadac7" stroke-width="8"/>
+  <path d="M210 205h480M210 305h480M210 405h480" stroke="#b8753b" stroke-width="18" stroke-linecap="round"/>
+  <rect x="230" y="224" width="80" height="58" rx="8" fill="#2c2a27"/>
+  <rect x="360" y="224" width="130" height="58" rx="8" fill="#d69a5f"/>
+  <rect x="548" y="324" width="110" height="58" rx="8" fill="#8d5628"/>
+  <rect x="260" y="424" width="170" height="48" rx="8" fill="#eadac7"/>
+</svg>

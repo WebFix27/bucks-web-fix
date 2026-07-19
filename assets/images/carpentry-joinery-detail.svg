@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 620" role="img" aria-labelledby="title desc">
+  <title id="title">Custom joinery detail</title>
+  <desc id="desc">Close-up style illustration of smooth timber joinery details.</desc>
+  <rect width="900" height="620" fill="#fff7ed"/>
+  <path d="M0 178h900" stroke="#d69a5f" stroke-width="110"/>
+  <path d="M0 348h900" stroke="#b8753b" stroke-width="110"/>
+  <path d="M0 516h900" stroke="#8d5628" stroke-width="110"/>
+  <g stroke="#5b351b" stroke-width="6" opacity=".35">
+    <path d="M60 176c90-36 180 36 270 0s180-36 270 0 180 36 270 0"/>
+    <path d="M80 348c84 34 166-30 250 0s166 30 250 0 166-30 250 0"/>
+    <path d="M50 514c88-32 176 32 264 0s176-32 264 0 176 32 264 0"/>
+  </g>
+  <rect x="310" y="165" width="280" height="290" rx="20" fill="#fffaf3" stroke="#2c2a27" stroke-width="10" opacity=".95"/>
+  <path d="M350 240h200M350 310h200M350 380h200" stroke="#b8753b" stroke-width="14" stroke-linecap="round"/>
+</svg>

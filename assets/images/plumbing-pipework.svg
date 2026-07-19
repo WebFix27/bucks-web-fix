@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 620" role="img" aria-labelledby="title desc">
+  <title id="title">Pipework repair</title>
+  <desc id="desc">Clean blue pipework illustration for a plumbing gallery placeholder.</desc>
+  <rect width="900" height="620" fill="#f3f7fb"/>
+  <path d="M160 220h230a80 80 0 0180 80v150" fill="none" stroke="#0f62fe" stroke-width="42" stroke-linecap="round"/>
+  <path d="M520 170v120a70 70 0 0070 70h150" fill="none" stroke="#56c7ff" stroke-width="42" stroke-linecap="round"/>
+  <g fill="#ffffff" stroke="#cfd9e8" stroke-width="6">
+    <rect x="106" y="178" width="110" height="84" rx="16"/>
+    <rect x="415" y="405" width="110" height="84" rx="16"/>
+    <rect x="685" y="318" width="110" height="84" rx="16"/>
+  </g>
+</svg>

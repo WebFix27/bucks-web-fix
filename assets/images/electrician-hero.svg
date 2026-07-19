@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 750" role="img" aria-labelledby="title desc">
+  <title id="title">Electrician at work</title>
+  <desc id="desc">A clean illustrated stock-style scene of an electrician working near a fuse board.</desc>
+  <defs>
+    <linearGradient id="wall" x1="0" x2="1" y1="0" y2="1">
+      <stop stop-color="#f7f9fd"/>
+      <stop offset="1" stop-color="#dfe8f5"/>
+    </linearGradient>
+  </defs>
+  <rect width="1000" height="750" fill="url(#wall)"/>
+  <rect x="90" y="110" width="360" height="470" rx="20" fill="#ffffff" stroke="#c7d4e7" stroke-width="6"/>
+  <rect x="135" y="155" width="270" height="58" rx="10" fill="#101826"/>
+  <rect x="140" y="250" width="80" height="42" rx="8" fill="#ffd43b"/>
+  <rect x="245" y="250" width="80" height="42" rx="8" fill="#e6edf8"/>
+  <rect x="140" y="328" width="185" height="20" rx="10" fill="#9aa8bc"/>
+  <rect x="140" y="372" width="220" height="20" rx="10" fill="#9aa8bc"/>
+  <circle cx="640" cy="190" r="72" fill="#ffd7a6"/>
+  <path d="M548 278h210l72 260H470z" fill="#101826"/>
+  <path d="M560 302l-128 118" stroke="#ffd43b" stroke-width="34" stroke-linecap="round"/>
+  <path d="M730 308l82 120" stroke="#ffd43b" stroke-width="34" stroke-linecap="round"/>
+  <rect x="586" y="442" width="138" height="178" rx="16" fill="#ffd43b"/>
+  <path d="M586 540h138" stroke="#101826" stroke-width="12"/>
+  <rect x="434" y="418" width="60" height="22" rx="8" fill="#101826"/>
+  <path d="M610 170h105" stroke="#101826" stroke-width="18" stroke-linecap="round"/>
+  <circle cx="618" cy="205" r="8" fill="#101826"/>
+  <circle cx="684" cy="205" r="8" fill="#101826"/>
+  <rect x="0" y="620" width="1000" height="130" fill="#edf2fa"/>
+</svg>

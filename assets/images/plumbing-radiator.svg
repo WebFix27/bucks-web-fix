@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 620" role="img" aria-labelledby="title desc">
+  <title id="title">Radiator work</title>
+  <desc id="desc">A clean radiator and heating work illustration.</desc>
+  <rect width="900" height="620" fill="#f3f7fb"/>
+  <rect x="188" y="150" width="524" height="302" rx="22" fill="#ffffff" stroke="#cfd9e8" stroke-width="8"/>
+  <g stroke="#0f62fe" stroke-width="22" stroke-linecap="round">
+    <path d="M260 202v198"/>
+    <path d="M330 202v198"/>
+    <path d="M400 202v198"/>
+    <path d="M470 202v198"/>
+    <path d="M540 202v198"/>
+    <path d="M610 202v198"/>
+  </g>
+  <path d="M130 430h640" stroke="#56c7ff" stroke-width="20" stroke-linecap="round"/>
+  <path d="M260 486v42M640 486v42" stroke="#172033" stroke-width="14" stroke-linecap="round"/>
+</svg>

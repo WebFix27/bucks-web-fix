@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 750" role="img" aria-labelledby="title desc">
+  <title id="title">Bespoke carpentry interior</title>
+  <desc id="desc">A warm illustrated stock-style scene of bespoke fitted furniture in a modern home.</desc>
+  <defs>
+    <linearGradient id="wood" x1="0" x2="1" y1="0" y2="1">
+      <stop stop-color="#d69a5f"/>
+      <stop offset="1" stop-color="#8d5628"/>
+    </linearGradient>
+  </defs>
+  <rect width="1000" height="750" fill="#fbf4e8"/>
+  <rect x="90" y="90" width="820" height="520" rx="24" fill="#fffaf3" stroke="#eadac7" stroke-width="8"/>
+  <rect x="150" y="150" width="285" height="400" rx="16" fill="url(#wood)"/>
+  <rect x="188" y="190" width="86" height="316" rx="10" fill="#f8e8d4" opacity=".9"/>
+  <rect x="306" y="190" width="86" height="316" rx="10" fill="#f8e8d4" opacity=".82"/>
+  <rect x="505" y="162" width="310" height="152" rx="14" fill="url(#wood)"/>
+  <path d="M536 224h248M536 270h248" stroke="#7b481f" stroke-width="8" opacity=".6"/>
+  <rect x="505" y="358" width="310" height="148" rx="14" fill="#ffffff" stroke="#eadac7" stroke-width="6"/>
+  <rect x="546" y="398" width="228" height="30" rx="15" fill="#2c2a27"/>
+  <rect x="0" y="610" width="1000" height="140" fill="#eadac7"/>
+</svg>

@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 620" role="img" aria-labelledby="title desc">
+  <title id="title">Fuse board work</title>
+  <desc id="desc">A neat fuse board illustration with switches and electrical wiring.</desc>
+  <rect width="900" height="620" fill="#f4f7fb"/>
+  <rect x="145" y="95" width="610" height="430" rx="22" fill="#ffffff" stroke="#c7d4e7" stroke-width="7"/>
+  <rect x="200" y="150" width="500" height="86" rx="14" fill="#101826"/>
+  <g fill="#ffd43b">
+    <rect x="220" y="284" width="72" height="132" rx="10"/>
+    <rect x="322" y="284" width="72" height="132" rx="10"/>
+    <rect x="424" y="284" width="72" height="132" rx="10"/>
+    <rect x="526" y="284" width="72" height="132" rx="10"/>
+    <rect x="628" y="284" width="72" height="132" rx="10"/>
+  </g>
+  <g stroke="#101826" stroke-width="12" stroke-linecap="round">
+    <path d="M256 312v74"/>
+    <path d="M358 312v74"/>
+    <path d="M460 312v74"/>
+    <path d="M562 312v74"/>
+    <path d="M664 312v74"/>
+  </g>
+  <path d="M210 466h480" stroke="#9aa8bc" stroke-width="16" stroke-linecap="round"/>
+</svg>

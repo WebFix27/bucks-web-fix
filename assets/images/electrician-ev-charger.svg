@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 620" role="img" aria-labelledby="title desc">
+  <title id="title">EV charger installation</title>
+  <desc id="desc">An EV charger mounted on a wall beside a clean driveway.</desc>
+  <rect width="900" height="620" fill="#eef3fa"/>
+  <rect x="0" y="385" width="900" height="235" fill="#d8e1ee"/>
+  <rect x="156" y="96" width="282" height="370" rx="24" fill="#ffffff" stroke="#c7d4e7" stroke-width="7"/>
+  <rect x="214" y="155" width="166" height="92" rx="14" fill="#101826"/>
+  <circle cx="298" cy="322" r="54" fill="#ffd43b"/>
+  <path d="M351 335c90 14 106 75 80 132" fill="none" stroke="#101826" stroke-width="18" stroke-linecap="round"/>
+  <path d="M555 470h176l-30-92H586z" fill="#101826"/>
+  <circle cx="598" cy="481" r="24" fill="#ffd43b"/>
+  <circle cx="695" cy="481" r="24" fill="#ffd43b"/>
+</svg>

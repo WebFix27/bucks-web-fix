@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 620" role="img" aria-labelledby="title desc">
+  <title id="title">Tap repair</title>
+  <desc id="desc">A modern sink and tap repair illustration.</desc>
+  <rect width="900" height="620" fill="#f7fbff"/>
+  <rect x="176" y="345" width="548" height="132" rx="26" fill="#ffffff" stroke="#cfd9e8" stroke-width="8"/>
+  <path d="M450 345v-116a72 72 0 0172-72h44" fill="none" stroke="#0f62fe" stroke-width="30" stroke-linecap="round"/>
+  <path d="M566 157h72" stroke="#0f62fe" stroke-width="30" stroke-linecap="round"/>
+  <path d="M520 283h116" stroke="#56c7ff" stroke-width="24" stroke-linecap="round"/>
+  <path d="M522 317c0 34 44 34 44 0 0-20-22-48-22-48s-22 28-22 48z" fill="#56c7ff"/>
+</svg>
