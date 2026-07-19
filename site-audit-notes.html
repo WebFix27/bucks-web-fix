@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Bucks Web Fix | Site Audit Notes</title>
+    <meta name="description" content="Review notes for the Bucks Web Fix static website before public deployment.">
+    <meta name="robots" content="noindex">
+    <link rel="icon" href="favicon.svg" type="image/svg+xml">
+    <link rel="stylesheet" href="styles.css">
+  </head>
+  <body>
+    <header class="site-header">
+      <a class="logo" href="index.html" aria-label="Back to Bucks Web Fix homepage">
+        <span>Bucks</span> Web Fix
+      </a>
+      <nav class="nav" aria-label="Audit page navigation">
+        <a href="index.html">Homepage</a>
+        <a href="demos/electrician.html">Electrician demo</a>
+        <a href="demos/plumbing.html">Plumbing demo</a>
+        <a href="demos/carpentry.html">Carpentry demo</a>
+      </nav>
+    </header>
+
+    <main>
+      <section class="section-pad">
+        <div class="container">
+          <div class="section-heading">
+            <p class="eyebrow">Review notes</p>
+            <h1>Bucks Web Fix site audit notes</h1>
+            <p>This page is for deployment review only. It is not linked from the main website navigation.</p>
+          </div>
+
+          <div class="card-grid four">
+            <article class="service-card">
+              <h2>Live Pages</h2>
+              <p><a href="index.html">Homepage</a>: main Bucks Web Fix one-page website for local trades in High Wycombe.</p>
+              <p><a href="demos/electrician.html">Electrician demo</a>: demo concept for an electrical business website.</p>
+              <p><a href="demos/plumbing.html">Plumbing demo</a>: demo concept for a plumbing and heating website.</p>
+              <p><a href="demos/carpentry.html">Carpentry demo</a>: demo concept for a carpentry and joinery website.</p>
+            </article>
+
+            <article class="service-card">
+              <h2>Known Limitations</h2>
+              <p>The contact forms are visual only for now. They do not send enquiries to a backend yet.</p>
+              <p>Current demo images are local placeholder SVG panels, not real client photography.</p>
+              <p>The demo businesses are clearly labelled as demo concepts and are not real client projects.</p>
+            </article>
+
+            <article class="service-card">
+              <h2>Assets</h2>
+              <p>Images are stored in <strong>assets/images/</strong> inside the Netlify publish folder.</p>
+              <p>Homepage images use <strong>assets/images/...</strong>.</p>
+              <p>Demo page images use <strong>../assets/images/...</strong>.</p>
+            </article>
+
+            <article class="service-card">
+              <h2>Manual Review</h2>
+              <p>Review copy, prices, contact details, image choices, mobile layout and form backend setup before launch.</p>
+              <p>Email: <a href="mailto:hello.buckswebfix@outlook.com">hello.buckswebfix@outlook.com</a></p>
+              <p>Phone: <a href="tel:07483215393">07483215393</a></p>
+            </article>
+          </div>
+        </div>
+      </section>
+    </main>
+
+    <footer class="site-footer">
+      <div class="container footer-grid">
+        <div>
+          <strong>Bucks Web Fix</strong>
+          <p>Review notes for the deploy-ready static website.</p>
+        </div>
+        <nav aria-label="Footer navigation">
+          <a href="index.html">Homepage</a>
+          <a href="demos/electrician.html">Electrician demo</a>
+          <a href="demos/plumbing.html">Plumbing demo</a>
+          <a href="demos/carpentry.html">Carpentry demo</a>
+        </nav>
+      </div>
+    </footer>
+  </body>
+</html>
